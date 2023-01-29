@@ -1,0 +1,1 @@
+# The very first steps into the Odin Project. Recipes is the first project that requires you to fashion simple recipes website using just Html.
